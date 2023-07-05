@@ -1,0 +1,6 @@
+Psg,Madrid,1,2
+Psg,Barca,4,0
+Madrid,Psg,4,4
+Madrid,Barca,3,3
+Barca,Psg,2,4
+Barca,Madrid,0,0
